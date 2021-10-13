@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb396df7bd5a4d3d9aae736cdc80c319",
+    "revision": "39ce5f6c2bb925b1d888757ddee4ff8c",
     "url": "/proPortfolio/index.html"
   },
   {
-    "revision": "3baa1ca5414b78a8a644",
-    "url": "/proPortfolio/static/css/2.e25273aa.chunk.css"
+    "revision": "1251d52144a5cc4982b0",
+    "url": "/proPortfolio/static/css/2.1191f278.chunk.css"
   },
   {
-    "revision": "a3fe56afa69bb993ba77",
-    "url": "/proPortfolio/static/css/main.2f245ecc.chunk.css"
+    "revision": "509550c1e114435f0aae",
+    "url": "/proPortfolio/static/css/main.4f4c9237.chunk.css"
   },
   {
-    "revision": "3baa1ca5414b78a8a644",
-    "url": "/proPortfolio/static/js/2.75323ba4.chunk.js"
+    "revision": "1251d52144a5cc4982b0",
+    "url": "/proPortfolio/static/js/2.66e381bb.chunk.js"
   },
   {
-    "revision": "a3fe56afa69bb993ba77",
-    "url": "/proPortfolio/static/js/main.ad045248.chunk.js"
+    "revision": "509550c1e114435f0aae",
+    "url": "/proPortfolio/static/js/main.094db2a2.chunk.js"
   },
   {
-    "revision": "09cc0315dc00112d46be",
-    "url": "/proPortfolio/static/js/runtime~main.bb3a288f.js"
+    "revision": "6b1235fa1c87b9d2b668",
+    "url": "/proPortfolio/static/js/runtime~main.36198b25.js"
   },
   {
     "revision": "1d13bb019c79ab744ef225f4eb5e3e13",
@@ -120,10 +120,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/proPortfolio/static/media/Now-Bold.65e782dd.ttf"
   },
   {
-    "revision": "6684cf87047fc45a294dc31ca4f40e69",
-    "url": "/proPortfolio/static/media/bg.6684cf87.jpg"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/proPortfolio/static/media/fontawesome-webfont.674f50d2.eot"
   },
@@ -142,6 +138,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/proPortfolio/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "ee2c8978489277ab651783904d4c3dee",
+    "url": "/proPortfolio/static/media/javier.ee2c8978.pdf"
   },
   {
     "revision": "63023ee11f7a4bbcd0629f5c62ed5e92",
@@ -170,22 +170,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29599d20280e6742e31c546fc1b05b1c",
     "url": "/proPortfolio/static/media/pexels-tranmautritam-285814.29599d20.jpg"
-  },
-  {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/proPortfolio/static/media/slick.b7c9e1e4.woff"
-  },
-  {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/proPortfolio/static/media/slick.ced611da.eot"
-  },
-  {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/proPortfolio/static/media/slick.d41f55a7.ttf"
-  },
-  {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/proPortfolio/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "e9a7a5bc5ab39b737a12cf1672ff0436",
