@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import MobileMenu from "../../components/MobileMenu";
 import { Link as ScrollLink } from "react-scroll";
 import "./style.css";
-
+import resume from '../../resume/javier.pdf'
 const Header = (props) => {
   return (
     <div className="header-style-1">
@@ -21,11 +21,11 @@ const Header = (props) => {
                   Home
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link to="/about" title="">
                   About
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <ScrollLink
                   to="portfolio"
@@ -51,8 +51,8 @@ const Header = (props) => {
           </nav>
           <div className="contact">
             <div className="cart-search-contact">
-              <Link to="/contact" className="theme-btn">
-                Lets Talk
+              <Link to={resume} target='_blank' download className="theme-btn">
+               Download CV
               </Link>
             </div>
           </div>

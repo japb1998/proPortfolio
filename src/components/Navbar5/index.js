@@ -1,6 +1,6 @@
 import React from "react";
 import Header2 from '../header2'
-import Logo from '../../images/logo2.png'
+import Logo from '../../images/logo-javier.png'
 
 export default function Navbar5() {
   const [scroll, setScroll] = React.useState(0);

@@ -1,7 +1,7 @@
 import React, {Fragment} from 'react';
 import Navbar5 from '../../components/Navbar5'
 import Breadcrumbs from '../../components/Breadcrumbs'
-import AboutArea3 from '../../components/aboutarea3'
+// import AboutArea3 from '../../components/aboutarea3'
 
 
 const AboutPage =() => {
@@ -9,7 +9,7 @@ const AboutPage =() => {
         <Fragment>
             <Navbar5/>
             <Breadcrumbs pageTitle={'About Me'} pageSub={'About'}/>
-            <AboutArea3/>
+            {/* <AboutArea3/> */}
             
         </Fragment>
     )

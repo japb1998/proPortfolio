@@ -1,8 +1,8 @@
 import React from 'react'
 import {Link}  from 'react-router-dom'
 import './style.css'
-
-import abimg from '../../images/about/about.png'
+import resume from "../../resume/javier.pdf";
+import abimg from '../../images/ucf.png'
 
 const Abmain = () => {
     return (
@@ -23,9 +23,14 @@ const Abmain = () => {
                 with logic. Stellar communication skills with ability to connect
                 with people and provide excellent service.{" "}
               </p>
-              <Link to="/about" className="theme-btn">
-                Lets Talk
-              </Link>
+              <a
+                href={resume}
+                download
+                target="_blank"
+                className="theme-btn-s2"
+              >
+                Download CV
+              </a>
             </div>
           </div>
         </div>

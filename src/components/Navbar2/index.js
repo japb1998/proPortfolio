@@ -1,6 +1,6 @@
 import React from "react";
 import Header2 from '../../components/header2'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/logo-javier.png'
 
 export default function Navbar2() {
   const [scroll, setScroll] = React.useState(0);
@@ -19,4 +19,4 @@ export default function Navbar2() {
         <Header2  Logo={Logo}/>
     </div>
   ); 
-}
+};

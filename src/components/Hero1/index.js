@@ -1,6 +1,7 @@
 import React from 'react'
 import {Link}  from 'react-router-dom';
 import heroimg from '../../images/slider/hero-shape.png'
+import myimg from '../../images/slider/myimg.jpg'
 
 import './style.css'
 
@@ -25,7 +26,7 @@ const Hero1 = () => {
                 </div>
                 <div className="wpo-slide-right-img">
                     <div className="slide-img wow fadeInRightSlow" data-wow-duration="2000ms">
-                        <img src={heroimg} alt=""/>
+                        <img src={myimg} alt=""/>
                     </div>
                 </div>
             </div>
