@@ -1,7 +1,7 @@
 {
   "name": "JavierPortfolio",
   "version": "0.1.0",
-  "homepage": "http://webdevlife.me/",
+  "homepage": "https://japb1998.github.io/proPortfolio",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.4.1",
