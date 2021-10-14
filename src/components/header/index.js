@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import MobileMenu from "../../components/MobileMenu";
+// import MobileMenu from "../../components/MobileMenu";
 import { Link as ScrollLink } from "react-scroll";
 import "./style.css";
 import resume from '../../resume/javier.pdf'
@@ -58,7 +58,7 @@ const Header = (props) => {
           </div>
           <div className="clearfix"></div>
         </div>
-        <MobileMenu />
+        {/* <MobileMenu /> */}
       </div>
     </div>
   );

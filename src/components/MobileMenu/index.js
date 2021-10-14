@@ -127,33 +127,7 @@ const menus = [
             },
         ]
     },
-    {
-        id: 5,
-        title: 'Blog',
-        link: '/blog',
-        submenu: [
-            {
-                id: 51,
-                title: 'Blog',
-                link: '/blog'
-            },
-            {
-                id: 52,
-                title: 'Blog Fullwidth',
-                link: '/blogfullwidth'
-            },
-            {
-                id: 53,
-                title: 'Blog Details',
-                link: '/blog-details'
-            },
-            {
-                id: 54,
-                title: 'Blog Details Fullwidth',
-                link: '/blog-details-fullwidth'
-            }
-        ]
-    },
+   
     {
         id: 6,
         title: 'Contact',
