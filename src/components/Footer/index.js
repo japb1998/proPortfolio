@@ -18,7 +18,14 @@ const Footer = (props) => {
                 <div className="wpo-footer-menu">
                   <ul>
                     <li>
-                      <Link to="/about">About</Link>
+                      <ScrollLink
+                        to="about"
+                        smooth={true}
+                        offset={50}
+                        duration={500}
+                      >
+                        About
+                      </ScrollLink>
                     </li>
                     <li>
                       {" "}

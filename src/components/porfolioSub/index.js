@@ -9,7 +9,10 @@ import profolio4 from "../../images/protfolio/img-4.jpg";
 
 const PortfolioSub = (props) => {
   return (
-    <div className={`wpo-protfolio-area section-padding ${props.subclass}`} id="portfolio">
+    <div
+      className={`wpo-protfolio-area section-padding ${props.subclass}`}
+      id="portfolio"
+    >
       <div className="container">
         <div className="col-12">
           <div className="section-title">
@@ -29,7 +32,12 @@ const PortfolioSub = (props) => {
                       <div className="wpo-protfolio-text">
                         <h2>Social Media App</h2>
                         <span>MERGN Stack App with User Authentication</span>
-                        <Link to="/projectDetails">View App</Link>
+                        <a
+                          target="_blank"
+                          href="https://helloworld-social-app.netlify.app/"
+                        >
+                          View App
+                        </a>
                       </div>
                     </div>
                     {/* <div className="wpo-protfolio-single">
@@ -41,7 +49,7 @@ const PortfolioSub = (props) => {
                         <span>E-commerce app MERN Stack</span>
                         <Link to="/projectDetails">View App</Link>
                       </div>
-                    </div> */} 
+                    </div> */}
                   </div>
                 </div>
                 <div className="col col-lg-6 col-md-6 col-sm-12 col-12">
@@ -63,7 +71,12 @@ const PortfolioSub = (props) => {
                       <div className="wpo-protfolio-text">
                         <h2>Pandora</h2>
                         <span>E-commerce app MERN Stack</span>
-                        <Link to="/projectDetails">View App</Link>
+                        <a
+                          target="_blank"
+                          href="https://pandora-e-commerce.herokuapp.com/"
+                        >
+                          View App
+                        </a>
                       </div>
                     </div>
                   </div>

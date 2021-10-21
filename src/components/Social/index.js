@@ -54,7 +54,10 @@ const SocialBr = () => {
           </a>
         </div>
         <div className="col-lg-4 col-md-6 col-sm-12 col-12">
-          <a target="_blank" href="linkedin.com/in/javier-perez-a0b0a81b3">
+          <a
+            target="_blank"
+            href="https://linkedin.com/in/javier-perez-a0b0a81b3"
+          >
             <div className="wpo-social-wrap">
               <div className="wpo-social-icon-5">
                 <i className="fa fa-linkedin" aria-hidden="true"></i>

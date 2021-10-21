@@ -18,7 +18,7 @@ const AboutWrap = (props) => {
   }
 
   return (
-    <div className="about-area section-padding">
+    <div className="about-area section-padding" id="about">
       <div className="container">
         <SectionTitle sectitle={"About Me"} />
         <div className="row">
